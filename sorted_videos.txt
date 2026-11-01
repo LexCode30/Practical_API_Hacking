@@ -1,0 +1,74 @@
+# Practical API Hacking
+
+1. Welcome to the Course  [s1.html]
+    001. start here  ->  https://drive.google.com/file/d/1KeA0tjWd31r7u_FdOps6WHqJPk_Bow3X/preview
+    002. course discord & getting support  ->  https://drive.google.com/file/d/1CkoiF4wLbbBMoQ2WvrJVa7LUn9TrpIAM/preview
+
+2. Introduction  [s2.html]
+    001. What is an API  ->  https://drive.google.com/file/d/1THtuQvTRWeqVsq2E1CAMaCMUKwgALAYh/preview
+    002. intercting with APIs  ->  https://drive.google.com/file/d/1EjnmvImzKWoS3RsA5ZOF09wd-o5_sT8h/preview
+    003. Types of APIs  ->  https://drive.google.com/file/d/1yaNe4sGcxYlbBvC3o4aLrhhcKDvuh8O_/preview
+    004. API security  ->  https://drive.google.com/file/d/1Iqo-McL0B8tSR2309tHGJ-2pi_AotDsI/preview
+
+3. Las Setup  [s3.html]
+    001. Tool Installation  ->  https://drive.google.com/file/d/1OfIdq249PcrQi25-VeOFX5teZp44obIP/preview
+    002. BURP Suite Introduction  ->  https://drive.google.com/file/d/1Gu9fjr9H9M7RRIUxaplpbpcEnAnF5FeU/preview
+    003. Postman Introduction  ->  https://drive.google.com/file/d/1WXWUPT8I20UXjzmJU0wZNMjw-pvtcMxE/preview
+    004. Docker Introduction  ->  https://drive.google.com/file/d/1Biz1A4riVv-l8EjDk2m9bn2qltAN1A2Q/preview
+
+4. Enumerating APIs  [s4.html]
+    001. Introduction to Enumeration  ->  https://drive.google.com/file/d/17Ihu-4xTL-LofgxiSha5ndImLqhTzYbb/preview
+    002. Fuzzing APIs  ->  https://drive.google.com/file/d/1sQLvGxQE08O3nXoyCbmEdVFpjscp1iQ0/preview
+    003. Discovery via source code  ->  https://drive.google.com/file/d/1is0-VcU7KUumeox_j8sID2oQe4NY9pMU/preview
+
+5. Attacking Authorization  [s5.html]
+    001. Introduction to Authorization  ->  https://drive.google.com/file/d/1CpsJGIaJXcPT0pWBDS93HqZ1QgVJUHMs/preview
+    002. BOLA lab  ->  https://drive.google.com/file/d/1RtJdU3UmNry8Wi2Q0687RW5kN5rC-ckR/preview
+    003. BFLA lab  ->  https://drive.google.com/file/d/1ry7TVAQlLuLiIpP6BvyyR5Nsk1Kn9Rfd/preview
+    004. Challenge Solution  ->  https://drive.google.com/file/d/1daQ8oasxeewju3O6vlm9ykZ7briXVojc/preview
+
+6. Attacking Authentification  [s6.html]
+    001. Introduction to Authentification  ->  https://drive.google.com/file/d/1BAz1RhQO6GpafXQW1SOdVc2rr-Q_Oexb/preview
+    002. Attacking Authentification  ->  https://drive.google.com/file/d/1Wwui7wIh4aqT1B4m7Bb0a3Bhd-q5scyj/preview
+    003. Attacking Tokens  ->  https://drive.google.com/file/d/17_xW6qqoDXvluvxluJYHfhexP2dCuWeh/preview
+    004. JSON Web Tokens - Part 1 Theory  ->  https://drive.google.com/file/d/1etNFktk-gwjKfoLaOeDUSURyZYySdavh/preview
+    005. JSON Web Tokens - Part 2 Attacking  ->  https://drive.google.com/file/d/1clQlEhhDVVC_vTI91clpaKCo-eOAgUu1/preview
+    006. JSON Web Tokens - Part 1 jwt tool  ->  https://drive.google.com/file/d/1Uq9hygwIZKn1_dO7pFBuyVMrJTLYK2zA/preview
+    007. Challenge Solution  ->  https://drive.google.com/file/d/19PlI4dEoH4revL0zYfjSV-t5YfIaQrif/preview
+
+7. Injection  [s7.html]
+    001. Introduction to Injection Attacks  ->  https://drive.google.com/file/d/12c3yJyj0oBozjNo1w0p33rJXaq4i0qfO/preview
+    002. Introduction to SQL Injection  ->  https://drive.google.com/file/d/1MpkFfbfsGtmNg3zpcXVentjboezYU_dz/preview
+    003. SQL Injection Lab  ->  https://drive.google.com/file/d/1O3zNn4hSpRPfMmnSX4dME13Vb_iDnpP8/preview
+    004. SQL Injection Lab - Login Bypass  ->  https://drive.google.com/file/d/1gm4BMgdB1sGJ1V_zJEs3jX80xPwI02yP/preview
+    005. NoSQL Injection Lab  ->  https://drive.google.com/file/d/17bZstC_V5GYcrt_CSmdUALFl-MCBLeSG/preview
+    006. Challenge Solution  ->  https://drive.google.com/file/d/1AhF5ew5263_bebQqMsnpCMEqYN6p-fch/preview
+
+8. Mid-course Capstone  [s8.html]
+    001. Mid-course Capstone Challenge  ->  https://drive.google.com/file/d/1I-mKsujwfGe-RwI5SNZv335_KJuXVpn2/preview
+    002. Challenge Solution  ->  https://drive.google.com/file/d/1TD7Q7CY-YYPj7jo3sCBWykCQdIK4ueTz/preview
+
+9. Mass Assignment  [s9.html]
+    001. Introduction to Mass Assignment  ->  https://drive.google.com/file/d/1C59Q5AZaQ7JKMmISJcgGwUTPMXK_3Pxg/preview
+    002. Code Walkthrough  ->  https://drive.google.com/file/d/18_uO7PvfFKeIcnSSAi0gpgllgEvf2YLC/preview
+    003. Mass Assignment Lab  ->  https://drive.google.com/file/d/1D31jDQ_WkE5q_I1yRdqAfK1vX8w_PTq-/preview
+    004. Challenge Solution  ->  https://drive.google.com/file/d/1LvgsOKAR2kULXeVGyrIWhFw1OUzh_uaV/preview
+
+10. Excessive Data Exposure  [s10.html]
+    001. Introduction to Data Exposure  ->  https://drive.google.com/file/d/1QUTYD_pVyO0AACH7dzkOj8WYBcBWhmQi/preview
+    002. Excessive Data Exposure Lab  ->  https://drive.google.com/file/d/1z-p8vq0_gQftfuvqfMkJoVj4JdPv3oFs/preview
+    003. Challenge Solution  ->  https://drive.google.com/file/d/1PMRwlznhlcanSbH5C5HP7ElMtFBAjqaX/preview
+
+11. SSRF - Server-side Request Forgery  [s11.html]
+    001. Introduction to SSRF  ->  https://drive.google.com/file/d/1JUvP708S3SKfedbjj6RgiuoWEQBUJBCi/preview
+    002. SSRF Lab  ->  https://drive.google.com/file/d/103xm9HoJ9bYlIZshqUdnv7aZY95s-IUX/preview
+    003. Challenge Solution  ->  https://drive.google.com/file/d/1sPPOLsDZdyNWuj6GTzCEfbKXMxRekObA/preview
+
+12. Chaining Vulnerabilities  [s12.html]
+    001. Command Injection  ->  https://drive.google.com/file/d/1CP-BcRl__VMaQuoIJ_5zC-0s2bdRwmHE/preview
+    002. Challenge Solution  ->  https://drive.google.com/file/d/1CK_dlaHUvXpD4s17xU7F2otzQubW390T/preview
+
+13. Final Capstone  [s13.html]
+    001. Final Capstone Challenge  ->  https://drive.google.com/file/d/1zJPiq5mxuDhW3xUA3_vK43ngjrd5vYPT/preview
+    002. Challenge Solution  ->  https://drive.google.com/file/d/1Zll4_-57_pFs4v45xF-KaGRgN27QinL5/preview
+    003. Congratulation & Thank You  ->  https://drive.google.com/file/d/1dR2TgqaiRjtT1Eiy3mLdS9vvJ3cFj8ZK/preview

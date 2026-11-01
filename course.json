@@ -1,0 +1,429 @@
+{
+  "name": "Practical API Hacking",
+  "slug": "Practical_API_Hacking",
+  "url": "https://LexCode30.github.io/Practical_API_Hacking/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Welcome to the Course",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "start here",
+          "id": "1KeA0tjWd31r7u_FdOps6WHqJPk_Bow3X",
+          "anchor": "v-1KeA0tjWd31r7u_FdOps6WHqJPk_Bow3X",
+          "href": "s1.html#v-1KeA0tjWd31r7u_FdOps6WHqJPk_Bow3X"
+        },
+        {
+          "number": 2,
+          "title": "course discord & getting support",
+          "id": "1CkoiF4wLbbBMoQ2WvrJVa7LUn9TrpIAM",
+          "anchor": "v-1CkoiF4wLbbBMoQ2WvrJVa7LUn9TrpIAM",
+          "href": "s1.html#v-1CkoiF4wLbbBMoQ2WvrJVa7LUn9TrpIAM"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is an API",
+          "id": "1THtuQvTRWeqVsq2E1CAMaCMUKwgALAYh",
+          "anchor": "v-1THtuQvTRWeqVsq2E1CAMaCMUKwgALAYh",
+          "href": "s2.html#v-1THtuQvTRWeqVsq2E1CAMaCMUKwgALAYh"
+        },
+        {
+          "number": 2,
+          "title": "intercting with APIs",
+          "id": "1EjnmvImzKWoS3RsA5ZOF09wd-o5_sT8h",
+          "anchor": "v-1EjnmvImzKWoS3RsA5ZOF09wd-o5_sT8h",
+          "href": "s2.html#v-1EjnmvImzKWoS3RsA5ZOF09wd-o5_sT8h"
+        },
+        {
+          "number": 3,
+          "title": "Types of APIs",
+          "id": "1yaNe4sGcxYlbBvC3o4aLrhhcKDvuh8O_",
+          "anchor": "v-1yaNe4sGcxYlbBvC3o4aLrhhcKDvuh8O_",
+          "href": "s2.html#v-1yaNe4sGcxYlbBvC3o4aLrhhcKDvuh8O_"
+        },
+        {
+          "number": 4,
+          "title": "API security",
+          "id": "1Iqo-McL0B8tSR2309tHGJ-2pi_AotDsI",
+          "anchor": "v-1Iqo-McL0B8tSR2309tHGJ-2pi_AotDsI",
+          "href": "s2.html#v-1Iqo-McL0B8tSR2309tHGJ-2pi_AotDsI"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Las Setup",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Tool Installation",
+          "id": "1OfIdq249PcrQi25-VeOFX5teZp44obIP",
+          "anchor": "v-1OfIdq249PcrQi25-VeOFX5teZp44obIP",
+          "href": "s3.html#v-1OfIdq249PcrQi25-VeOFX5teZp44obIP"
+        },
+        {
+          "number": 2,
+          "title": "BURP Suite Introduction",
+          "id": "1Gu9fjr9H9M7RRIUxaplpbpcEnAnF5FeU",
+          "anchor": "v-1Gu9fjr9H9M7RRIUxaplpbpcEnAnF5FeU",
+          "href": "s3.html#v-1Gu9fjr9H9M7RRIUxaplpbpcEnAnF5FeU"
+        },
+        {
+          "number": 3,
+          "title": "Postman Introduction",
+          "id": "1WXWUPT8I20UXjzmJU0wZNMjw-pvtcMxE",
+          "anchor": "v-1WXWUPT8I20UXjzmJU0wZNMjw-pvtcMxE",
+          "href": "s3.html#v-1WXWUPT8I20UXjzmJU0wZNMjw-pvtcMxE"
+        },
+        {
+          "number": 4,
+          "title": "Docker Introduction",
+          "id": "1Biz1A4riVv-l8EjDk2m9bn2qltAN1A2Q",
+          "anchor": "v-1Biz1A4riVv-l8EjDk2m9bn2qltAN1A2Q",
+          "href": "s3.html#v-1Biz1A4riVv-l8EjDk2m9bn2qltAN1A2Q"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Enumerating APIs",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Enumeration",
+          "id": "17Ihu-4xTL-LofgxiSha5ndImLqhTzYbb",
+          "anchor": "v-17Ihu-4xTL-LofgxiSha5ndImLqhTzYbb",
+          "href": "s4.html#v-17Ihu-4xTL-LofgxiSha5ndImLqhTzYbb"
+        },
+        {
+          "number": 2,
+          "title": "Fuzzing APIs",
+          "id": "1sQLvGxQE08O3nXoyCbmEdVFpjscp1iQ0",
+          "anchor": "v-1sQLvGxQE08O3nXoyCbmEdVFpjscp1iQ0",
+          "href": "s4.html#v-1sQLvGxQE08O3nXoyCbmEdVFpjscp1iQ0"
+        },
+        {
+          "number": 3,
+          "title": "Discovery via source code",
+          "id": "1is0-VcU7KUumeox_j8sID2oQe4NY9pMU",
+          "anchor": "v-1is0-VcU7KUumeox_j8sID2oQe4NY9pMU",
+          "href": "s4.html#v-1is0-VcU7KUumeox_j8sID2oQe4NY9pMU"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Attacking Authorization",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Authorization",
+          "id": "1CpsJGIaJXcPT0pWBDS93HqZ1QgVJUHMs",
+          "anchor": "v-1CpsJGIaJXcPT0pWBDS93HqZ1QgVJUHMs",
+          "href": "s5.html#v-1CpsJGIaJXcPT0pWBDS93HqZ1QgVJUHMs"
+        },
+        {
+          "number": 2,
+          "title": "BOLA lab",
+          "id": "1RtJdU3UmNry8Wi2Q0687RW5kN5rC-ckR",
+          "anchor": "v-1RtJdU3UmNry8Wi2Q0687RW5kN5rC-ckR",
+          "href": "s5.html#v-1RtJdU3UmNry8Wi2Q0687RW5kN5rC-ckR"
+        },
+        {
+          "number": 3,
+          "title": "BFLA lab",
+          "id": "1ry7TVAQlLuLiIpP6BvyyR5Nsk1Kn9Rfd",
+          "anchor": "v-1ry7TVAQlLuLiIpP6BvyyR5Nsk1Kn9Rfd",
+          "href": "s5.html#v-1ry7TVAQlLuLiIpP6BvyyR5Nsk1Kn9Rfd"
+        },
+        {
+          "number": 4,
+          "title": "Challenge Solution",
+          "id": "1daQ8oasxeewju3O6vlm9ykZ7briXVojc",
+          "anchor": "v-1daQ8oasxeewju3O6vlm9ykZ7briXVojc",
+          "href": "s5.html#v-1daQ8oasxeewju3O6vlm9ykZ7briXVojc"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Attacking Authentification",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Authentification",
+          "id": "1BAz1RhQO6GpafXQW1SOdVc2rr-Q_Oexb",
+          "anchor": "v-1BAz1RhQO6GpafXQW1SOdVc2rr-Q_Oexb",
+          "href": "s6.html#v-1BAz1RhQO6GpafXQW1SOdVc2rr-Q_Oexb"
+        },
+        {
+          "number": 2,
+          "title": "Attacking Authentification",
+          "id": "1Wwui7wIh4aqT1B4m7Bb0a3Bhd-q5scyj",
+          "anchor": "v-1Wwui7wIh4aqT1B4m7Bb0a3Bhd-q5scyj",
+          "href": "s6.html#v-1Wwui7wIh4aqT1B4m7Bb0a3Bhd-q5scyj"
+        },
+        {
+          "number": 3,
+          "title": "Attacking Tokens",
+          "id": "17_xW6qqoDXvluvxluJYHfhexP2dCuWeh",
+          "anchor": "v-17_xW6qqoDXvluvxluJYHfhexP2dCuWeh",
+          "href": "s6.html#v-17_xW6qqoDXvluvxluJYHfhexP2dCuWeh"
+        },
+        {
+          "number": 4,
+          "title": "JSON Web Tokens - Part 1 Theory",
+          "id": "1etNFktk-gwjKfoLaOeDUSURyZYySdavh",
+          "anchor": "v-1etNFktk-gwjKfoLaOeDUSURyZYySdavh",
+          "href": "s6.html#v-1etNFktk-gwjKfoLaOeDUSURyZYySdavh"
+        },
+        {
+          "number": 5,
+          "title": "JSON Web Tokens - Part 2 Attacking",
+          "id": "1clQlEhhDVVC_vTI91clpaKCo-eOAgUu1",
+          "anchor": "v-1clQlEhhDVVC_vTI91clpaKCo-eOAgUu1",
+          "href": "s6.html#v-1clQlEhhDVVC_vTI91clpaKCo-eOAgUu1"
+        },
+        {
+          "number": 6,
+          "title": "JSON Web Tokens - Part 1 jwt tool",
+          "id": "1Uq9hygwIZKn1_dO7pFBuyVMrJTLYK2zA",
+          "anchor": "v-1Uq9hygwIZKn1_dO7pFBuyVMrJTLYK2zA",
+          "href": "s6.html#v-1Uq9hygwIZKn1_dO7pFBuyVMrJTLYK2zA"
+        },
+        {
+          "number": 7,
+          "title": "Challenge Solution",
+          "id": "19PlI4dEoH4revL0zYfjSV-t5YfIaQrif",
+          "anchor": "v-19PlI4dEoH4revL0zYfjSV-t5YfIaQrif",
+          "href": "s6.html#v-19PlI4dEoH4revL0zYfjSV-t5YfIaQrif"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Injection",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Injection Attacks",
+          "id": "12c3yJyj0oBozjNo1w0p33rJXaq4i0qfO",
+          "anchor": "v-12c3yJyj0oBozjNo1w0p33rJXaq4i0qfO",
+          "href": "s7.html#v-12c3yJyj0oBozjNo1w0p33rJXaq4i0qfO"
+        },
+        {
+          "number": 2,
+          "title": "Introduction to SQL Injection",
+          "id": "1MpkFfbfsGtmNg3zpcXVentjboezYU_dz",
+          "anchor": "v-1MpkFfbfsGtmNg3zpcXVentjboezYU_dz",
+          "href": "s7.html#v-1MpkFfbfsGtmNg3zpcXVentjboezYU_dz"
+        },
+        {
+          "number": 3,
+          "title": "SQL Injection Lab",
+          "id": "1O3zNn4hSpRPfMmnSX4dME13Vb_iDnpP8",
+          "anchor": "v-1O3zNn4hSpRPfMmnSX4dME13Vb_iDnpP8",
+          "href": "s7.html#v-1O3zNn4hSpRPfMmnSX4dME13Vb_iDnpP8"
+        },
+        {
+          "number": 4,
+          "title": "SQL Injection Lab - Login Bypass",
+          "id": "1gm4BMgdB1sGJ1V_zJEs3jX80xPwI02yP",
+          "anchor": "v-1gm4BMgdB1sGJ1V_zJEs3jX80xPwI02yP",
+          "href": "s7.html#v-1gm4BMgdB1sGJ1V_zJEs3jX80xPwI02yP"
+        },
+        {
+          "number": 5,
+          "title": "NoSQL Injection Lab",
+          "id": "17bZstC_V5GYcrt_CSmdUALFl-MCBLeSG",
+          "anchor": "v-17bZstC_V5GYcrt_CSmdUALFl-MCBLeSG",
+          "href": "s7.html#v-17bZstC_V5GYcrt_CSmdUALFl-MCBLeSG"
+        },
+        {
+          "number": 6,
+          "title": "Challenge Solution",
+          "id": "1AhF5ew5263_bebQqMsnpCMEqYN6p-fch",
+          "anchor": "v-1AhF5ew5263_bebQqMsnpCMEqYN6p-fch",
+          "href": "s7.html#v-1AhF5ew5263_bebQqMsnpCMEqYN6p-fch"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Mid-course Capstone",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Mid-course Capstone Challenge",
+          "id": "1I-mKsujwfGe-RwI5SNZv335_KJuXVpn2",
+          "anchor": "v-1I-mKsujwfGe-RwI5SNZv335_KJuXVpn2",
+          "href": "s8.html#v-1I-mKsujwfGe-RwI5SNZv335_KJuXVpn2"
+        },
+        {
+          "number": 2,
+          "title": "Challenge Solution",
+          "id": "1TD7Q7CY-YYPj7jo3sCBWykCQdIK4ueTz",
+          "anchor": "v-1TD7Q7CY-YYPj7jo3sCBWykCQdIK4ueTz",
+          "href": "s8.html#v-1TD7Q7CY-YYPj7jo3sCBWykCQdIK4ueTz"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Mass Assignment",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Mass Assignment",
+          "id": "1C59Q5AZaQ7JKMmISJcgGwUTPMXK_3Pxg",
+          "anchor": "v-1C59Q5AZaQ7JKMmISJcgGwUTPMXK_3Pxg",
+          "href": "s9.html#v-1C59Q5AZaQ7JKMmISJcgGwUTPMXK_3Pxg"
+        },
+        {
+          "number": 2,
+          "title": "Code Walkthrough",
+          "id": "18_uO7PvfFKeIcnSSAi0gpgllgEvf2YLC",
+          "anchor": "v-18_uO7PvfFKeIcnSSAi0gpgllgEvf2YLC",
+          "href": "s9.html#v-18_uO7PvfFKeIcnSSAi0gpgllgEvf2YLC"
+        },
+        {
+          "number": 3,
+          "title": "Mass Assignment Lab",
+          "id": "1D31jDQ_WkE5q_I1yRdqAfK1vX8w_PTq-",
+          "anchor": "v-1D31jDQ_WkE5q_I1yRdqAfK1vX8w_PTq-",
+          "href": "s9.html#v-1D31jDQ_WkE5q_I1yRdqAfK1vX8w_PTq-"
+        },
+        {
+          "number": 4,
+          "title": "Challenge Solution",
+          "id": "1LvgsOKAR2kULXeVGyrIWhFw1OUzh_uaV",
+          "anchor": "v-1LvgsOKAR2kULXeVGyrIWhFw1OUzh_uaV",
+          "href": "s9.html#v-1LvgsOKAR2kULXeVGyrIWhFw1OUzh_uaV"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Excessive Data Exposure",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to Data Exposure",
+          "id": "1QUTYD_pVyO0AACH7dzkOj8WYBcBWhmQi",
+          "anchor": "v-1QUTYD_pVyO0AACH7dzkOj8WYBcBWhmQi",
+          "href": "s10.html#v-1QUTYD_pVyO0AACH7dzkOj8WYBcBWhmQi"
+        },
+        {
+          "number": 2,
+          "title": "Excessive Data Exposure Lab",
+          "id": "1z-p8vq0_gQftfuvqfMkJoVj4JdPv3oFs",
+          "anchor": "v-1z-p8vq0_gQftfuvqfMkJoVj4JdPv3oFs",
+          "href": "s10.html#v-1z-p8vq0_gQftfuvqfMkJoVj4JdPv3oFs"
+        },
+        {
+          "number": 3,
+          "title": "Challenge Solution",
+          "id": "1PMRwlznhlcanSbH5C5HP7ElMtFBAjqaX",
+          "anchor": "v-1PMRwlznhlcanSbH5C5HP7ElMtFBAjqaX",
+          "href": "s10.html#v-1PMRwlznhlcanSbH5C5HP7ElMtFBAjqaX"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "SSRF - Server-side Request Forgery",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction to SSRF",
+          "id": "1JUvP708S3SKfedbjj6RgiuoWEQBUJBCi",
+          "anchor": "v-1JUvP708S3SKfedbjj6RgiuoWEQBUJBCi",
+          "href": "s11.html#v-1JUvP708S3SKfedbjj6RgiuoWEQBUJBCi"
+        },
+        {
+          "number": 2,
+          "title": "SSRF Lab",
+          "id": "103xm9HoJ9bYlIZshqUdnv7aZY95s-IUX",
+          "anchor": "v-103xm9HoJ9bYlIZshqUdnv7aZY95s-IUX",
+          "href": "s11.html#v-103xm9HoJ9bYlIZshqUdnv7aZY95s-IUX"
+        },
+        {
+          "number": 3,
+          "title": "Challenge Solution",
+          "id": "1sPPOLsDZdyNWuj6GTzCEfbKXMxRekObA",
+          "anchor": "v-1sPPOLsDZdyNWuj6GTzCEfbKXMxRekObA",
+          "href": "s11.html#v-1sPPOLsDZdyNWuj6GTzCEfbKXMxRekObA"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Chaining Vulnerabilities",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Command Injection",
+          "id": "1CP-BcRl__VMaQuoIJ_5zC-0s2bdRwmHE",
+          "anchor": "v-1CP-BcRl__VMaQuoIJ_5zC-0s2bdRwmHE",
+          "href": "s12.html#v-1CP-BcRl__VMaQuoIJ_5zC-0s2bdRwmHE"
+        },
+        {
+          "number": 2,
+          "title": "Challenge Solution",
+          "id": "1CK_dlaHUvXpD4s17xU7F2otzQubW390T",
+          "anchor": "v-1CK_dlaHUvXpD4s17xU7F2otzQubW390T",
+          "href": "s12.html#v-1CK_dlaHUvXpD4s17xU7F2otzQubW390T"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Final Capstone",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Final Capstone Challenge",
+          "id": "1zJPiq5mxuDhW3xUA3_vK43ngjrd5vYPT",
+          "anchor": "v-1zJPiq5mxuDhW3xUA3_vK43ngjrd5vYPT",
+          "href": "s13.html#v-1zJPiq5mxuDhW3xUA3_vK43ngjrd5vYPT"
+        },
+        {
+          "number": 2,
+          "title": "Challenge Solution",
+          "id": "1Zll4_-57_pFs4v45xF-KaGRgN27QinL5",
+          "anchor": "v-1Zll4_-57_pFs4v45xF-KaGRgN27QinL5",
+          "href": "s13.html#v-1Zll4_-57_pFs4v45xF-KaGRgN27QinL5"
+        },
+        {
+          "number": 3,
+          "title": "Congratulation & Thank You",
+          "id": "1dR2TgqaiRjtT1Eiy3mLdS9vvJ3cFj8ZK",
+          "anchor": "v-1dR2TgqaiRjtT1Eiy3mLdS9vvJ3cFj8ZK",
+          "href": "s13.html#v-1dR2TgqaiRjtT1Eiy3mLdS9vvJ3cFj8ZK"
+        }
+      ]
+    }
+  ]
+}
